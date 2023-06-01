@@ -1,2 +1,1 @@
-# skippayy1.github.io
-My portfolio website.
+Welcome to my portfolio website! 
