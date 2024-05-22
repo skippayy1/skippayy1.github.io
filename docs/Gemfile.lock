@@ -276,6 +276,7 @@ DEPENDENCIES
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-include-cache
   jekyll-sass-converter (~> 1.5.2)
   minima (~> 2.5)
   minimal-mistakes-jekyll
